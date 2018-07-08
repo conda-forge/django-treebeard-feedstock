@@ -16,14 +16,15 @@ tree implementations for the Django Web Framework 1.8 and later.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/django-treebeard-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/django-treebeard-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/django-treebeard-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/django-treebeard-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/django-treebeard-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/django-treebeard-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/django-treebeard-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/django-treebeard-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-treebeard/badges/version.svg)](https://anaconda.org/conda-forge/django-treebeard)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-treebeard/badges/downloads.svg)](https://anaconda.org/conda-forge/django-treebeard)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-django--treebeard-green.svg)](https://anaconda.org/conda-forge/django-treebeard) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/django-treebeard.svg)](https://anaconda.org/conda-forge/django-treebeard) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/django-treebeard.svg)](https://anaconda.org/conda-forge/django-treebeard) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/django-treebeard.svg)](https://anaconda.org/conda-forge/django-treebeard) |
 
 Installing django-treebeard
 ===========================
