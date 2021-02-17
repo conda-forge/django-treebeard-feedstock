@@ -1,6 +1,6 @@
 {% set name = "django-treebeard" %}
-{% set version = "4.3.1" %}
-{% set sha256 = "83aebc34a9f06de7daaec330d858d1c47887e81be3da77e3541fe7368196dd8a" %}
+{% set version = "4.5" %}
+{% set sha256 = "8085928debdd187e9919afc522ea40069bb9f090fa804c7ae9a324b0f62843c6" %}
 
 package:
   name: {{ name|lower }}
@@ -34,7 +34,7 @@ about:
   license: Apache-2.0
   license_family: Apache
   license_file: LICENSE
-  summary: 'Efficient tree implementations for Django'
+  summary: Efficient tree implementations for Django
   description: |
     django-treebeard is a library that implements efficient 
     tree implementations for the Django Web Framework 1.8 and later.
