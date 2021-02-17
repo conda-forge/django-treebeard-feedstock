@@ -5,9 +5,13 @@ Home: https://github.com/django-treebeard/django-treebeard
 
 Package license: Apache-2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-treebeard-feedstock/blob/master/LICENSE.txt)
 
 Summary: Efficient tree implementations for Django
+
+Development: https://github.com/django-treebeard/django-treebeard
+
+Documentation: http://django-treebeard.readthedocs.io/en/latest/
 
 django-treebeard is a library that implements efficient
 tree implementations for the Django Web Framework 1.8 and later.
