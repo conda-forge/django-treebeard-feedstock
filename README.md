@@ -1,11 +1,11 @@
-About django-treebeard
-======================
+About django-treebeard-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-treebeard-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/django-treebeard/django-treebeard
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-treebeard-feedstock/blob/main/LICENSE.txt)
 
 Summary: Efficient tree implementations for Django
 
