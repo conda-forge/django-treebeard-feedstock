@@ -22,8 +22,8 @@ requirements:
     - python
     - setuptools
   run:
-    - python >=3.6
-    - django >=2.2
+    - python >=3.8
+    - django >=3.2
 
 test:
   imports:
