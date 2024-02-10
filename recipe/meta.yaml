@@ -19,7 +19,7 @@ build:
 requirements:
   host:
     - pip
-    - python
+    - python >=3.8
     - setuptools
   run:
     - python >=3.8
@@ -28,6 +28,10 @@ requirements:
 test:
   imports:
     - treebeard
+  commands:
+    - pip check
+  requires:
+    - pip
 
 about:
   home: https://github.com/django-treebeard/django-treebeard
