@@ -1,6 +1,6 @@
 {% set name = "django-treebeard" %}
-{% set version = "5.2.2" %}
-{% set sha256 = "4863191d8cd63daaa985f0853293ccae8c459e3d44963c4e4eec80dae7156e98" %}
+{% set version = "5.3.0" %}
+{% set sha256 = "8606cefd3a65689e99d2a493e5af8a8ece450b96915c949b5c72f6f302cfbe19" %}
 
 package:
   name: {{ name|lower }}
