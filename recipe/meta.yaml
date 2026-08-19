@@ -1,6 +1,6 @@
 {% set name = "django-treebeard" %}
-{% set version = "7.0.0" %}
-{% set sha256 = "54dc526a25c4e5083cf7ae7b37bf0a02c5c2878b693027663db7604de2869d7a" %}
+{% set version = "7.0.1" %}
+{% set sha256 = "c998eb140f28b844b7006c0cf44c8706775159dc18a5c66d14e27b020b6050f2" %}
 
 package:
   name: {{ name|lower }}
@@ -8,7 +8,7 @@ package:
 
 source:
   fn: {{ name }}-{{ version }}.tar.gz
-  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name | replace('-', '_') }}-{{ version }}.tar.gz
+  url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/{{ name | replace('-', '_') }}-{{ version }}.tar.gz
   sha256: {{ sha256 }}
 
 build:
